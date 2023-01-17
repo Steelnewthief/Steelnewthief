@@ -1,0 +1,6 @@
+{     
+        "ip":"Steelnewthief.aternos.me",
+        "port": "20074",
+        "name": "steelnewthief"
+
+}
